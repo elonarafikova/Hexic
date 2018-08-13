@@ -1,1 +1,1 @@
-# Hexic
+# Algorithm of game Hexic
